@@ -1,0 +1,27 @@
+# vietnamese_text = "# Tiền Còn Không?"
+
+    '''
+    for t in vietnamese_text:
+        pyautogui.press(t, interval=0.5)
+    '''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
