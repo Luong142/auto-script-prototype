@@ -38,4 +38,3 @@ def register():
     '''
 
     # todo: the difference between moveTo() and move() are one is forcing to move the cursor regardless of location
-
